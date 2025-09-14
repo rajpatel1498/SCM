@@ -15,9 +15,9 @@
     "chartjs-plugin-annotation": "^2.1.1",
     "chartjs-plugin-zoom": "^2.0.1"
   },
-  "devDependencies": {
-  "tailwindcss": "^3.5.0",
-  "postcss": "^8.4.0",
-  "autoprefixer": "^10.4.0"
+ "devDependencies": {
+  "tailwindcss": "^3.4.13",
+  "postcss": "^8.4.41",
+  "autoprefixer": "^10.4.20"
   }
 }
